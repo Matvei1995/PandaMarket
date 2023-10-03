@@ -22,7 +22,7 @@ A définir pendant le prochain RDV
 Panda Market souhaite évoluer et ajouter un service supplémentaire ; il a eu l'idée innovante de créer un service de click-and-collect qui puisse être géré depuis un site internet. 
 Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
 **`Luigi Joubert`**, CEO de cette entreprise nous a présenté sa vision de son site internet.
-**`Emeric, François, François, Laetitia et Laura`** sont chargés de sa mise en service.   
+**`Emeric, François, François, Laetitia, Laura et Matvei`** sont chargés de sa mise en service.   
 
 ## Spécifications techniques
 
