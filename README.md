@@ -16,6 +16,14 @@ Il vend de nombreux produits alimentaires dans un commerce de proximité où les
 
 # Notre équipe
 
+**`Emeric, François G, François R, Laetitia, Laura et Matvei`** sont les prestataires de beUpdate, et sont amenés à répondre à la mission que leur a confié Luigi Joubert, détaillée ci-dessous.
+
+**`Emeric`** est  CEO.
+**`François G`** est chargé de relation client.
+**`François R`** est  Commercial.
+**`Laetitia`** est Team Lead Développeur.
+**`Laura`** est chargé de l'Ux / UI Design.
+**`Matvei`** est développeur full-stack.
 
 
 ## Spécifications fonctionnelles
