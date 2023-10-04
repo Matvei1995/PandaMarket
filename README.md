@@ -47,6 +47,10 @@ Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
 #### Existant
 Leur *logo* est un panda en noir et blanc.
 
+#### Contexte cibles
+
+
+
 #### Charte graphique
 Le client souhaite mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc`** et le **`noir`**.
 Voici les couleurs choisies par le client après proposition du prestataire.
