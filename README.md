@@ -79,7 +79,8 @@ ainsi que l'autre proposition du prestataire, qui n'a pas été retenue :
 #### L'arborescence
 Organisation hiérarchique des informations du site
 
-![image](https://github.com/Matvei1995/mycacao/assets/92799729/b9724bb9-d5d5-4353-bffb-30bca57526d1)
+![12](https://github.com/Matvei1995/mycacao/assets/92799729/90b76fae-49fd-45b7-bcc6-71ba41b951ad)
+
 
   
 
