@@ -13,9 +13,12 @@ Le client **`Panda Market`** est installé depuis 4
 ans à TOULOUSE dans le secteur de l'alimentaire.
 Il vend de nombreux produits alimentaires dans un commerce de proximité où les consommateurs sont amenés à acheter sur place.
 **`Luigi Joubert`**, est le président-directeur-général (CEO) de cette entreprise depuis sa création.
+L'entreprise est située au 12 avenue des coquillages 31440 Toulouse.
 Il est joignable au 07 46 58 21 12 et son adresse mail est : luigi.jbert@wanadoo.fr
 
 #### Notre équipe
+
+L'entreprise be-Update, par le biais du contrat passé entre elle et Panda Market le 3 octobre 2023, a été chargée de mener à bien le projet détaillé ci-dessous. Elle est dirigée depuis sa création en 2019 par **`Emeric`** et est implantée au 56 rue Prosper Minvielle 31520 Ramonville-Saint-Agne.
 
 **`Emeric, François G, François R, Laëtitia, Laura et Matvei`** sont les prestataires de beUpdate, et sont amenés à répondre à la mission que leur a confié Luigi Joubert, détaillée ci-dessous.
 
