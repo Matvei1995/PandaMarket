@@ -1,7 +1,8 @@
 #                        Cahier des charges
 
 # Présentation de l'entreprise
-![LogoMarket](https://github.com/Matvei1995/mycacao/assets/92799729/879768ae-222f-4498-8380-63a5fe296e64)
+
+![LogoMarket](https://github.com/Matvei1995/mycacao/assets/92799729/13882964-1288-4fbf-a00e-07b89af646d0)
 
 Le client **`Panda Market`** est installé depuis 4 
 ans à TOULOUSE dans le secteur de l'alimentaire.
