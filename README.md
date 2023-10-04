@@ -13,6 +13,7 @@ Le client **`Panda Market`** est installé depuis 4
 ans à TOULOUSE dans le secteur de l'alimentaire.
 Il vend de nombreux produits alimentaires dans un commerce de proximité où les consommateurs sont amenés à acheter sur place.
 **`Luigi Joubert`**, est le président-directeur-général (CEO) de cette entreprise depuis sa création.
+Il est joignable au 07 46 58 21 12 et son adresse mail est : luigi.jbert@wanadoo.fr
 
 #### Notre équipe
 
@@ -20,7 +21,7 @@ Il vend de nombreux produits alimentaires dans un commerce de proximité où les
 
 > **`Emeric`** est CEO.
 > 
-> **`François G`** est chargé de relation client.
+> **`François G`** est chargé de relation client. Il est joignable au 06 48 23 98 41 ainsi qu'à l'adresse mail contact-francoisg@be-update.fr
 > 
 > **`François R`** est commercial.
 > 
@@ -96,8 +97,15 @@ Comme convenu avec le client au moyen du contrat passé le 3 octobre 2023 entre 
  - le prestataire se devra d'assurer la maintenance et les mises à jours du projet fini, si demandé par le client.
 
 ### Budget
-
-<img align="center" width="410" height="400" alt="image2" src="https://github.com/Matvei1995/mycacao/assets/92799729/4b9821e8-dce9-4331-823c-56ac8d2ee85a">
+Le client a pour budget **`8 000 €`**
+Le prestataire a chiffré le devius ci-dessous :
+> L'hébergement du site se fera sur O2Switch et coûtera **`50 €`** par an,
+> Le DNS utilisé pour coder panda-market.fr coûtera **`4,99 €`**, puis **`6,99 €`** par an,
+> La charte graphique partielle sera chiffrée à **`500 €`**,
+> La maintenance, que le client pourra choisir de faire effectuer par le prestataire ou non, coutêra **`500 €`** par an,
+> La formation du gérant coûtera **`1500 €`**,
+> enfin la facturation de l'ensemble des services concernant les développeurs le matériel et les locaux chiffera **`6000 €`**.
+Le coût total des services offerts par le prestataire montera à **`8061,98 €`**.
 
 ### Charge de travail
 
