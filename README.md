@@ -120,4 +120,4 @@ Le coût total des services offerts par le prestataire montera à **`8061,98 €
 
 ### Charge de travail
 
-
+![grantt](https://github.com/Matvei1995/PandaMarket/assets/92799729/e7370e43-8fff-4ba7-80b2-5289bbb960ed)
