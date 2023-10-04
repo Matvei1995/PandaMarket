@@ -49,7 +49,8 @@ Voici les couleurs choisies par le client après proposition du prestataire.
 
 ainsi que l'autre proposition du prestataire, qui n'a pas été retenue :
 
-![prop1](https://github.com/Matvei1995/mycacao/assets/92799729/23d91e60-5e4e-4dee-840c-4553975c7717)
+<p align="left"> ![prop1](https://github.com/Matvei1995/mycacao/assets/92799729/6f857e05-f424-441e-80a3-26b0e02a4594)
+</p>
 
 
 #### L'arborescence
