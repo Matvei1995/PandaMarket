@@ -12,7 +12,7 @@
 Le client **`Panda Market`** est installé depuis 4 
 ans à TOULOUSE dans le secteur de l'alimentaire.
 Il vend de nombreux produits alimentaires dans un commerce de proximité où les consommateurs sont amenés à acheter sur place.
-**`Luigi Joubert`**, est le président-directeur-général (CEO) de cette entreprise depuis sa création.
+**`Luigi Joubert`** est le président-directeur-général (CEO) de cette entreprise depuis sa création.
 L'entreprise est située au 12 avenue des coquillages 31440 Toulouse.
 Il est joignable au 07 46 58 21 12 et son adresse mail est : luigi.jbert@wanadoo.fr
 
@@ -38,7 +38,7 @@ L'entreprise be-Update, par le biais du contrat passé entre elle et Panda Marke
 ## Spécifications fonctionnelles
 
 #### Objectif
-Il souhaite créer un site avec un système de  **`Click and collect.`**
+Le CEO de Panda Market souhaite créer un site comportant un système de  **`Click and collect.`**
 Leur budget est de **`8 000 €`** et le projet doit être terminé d'ici 6 mois.
 
 #### Besoins
@@ -46,7 +46,7 @@ Leur budget est de **`8 000 €`** et le projet doit être terminé d'ici 6 mois
 Panda Market souhaite évoluer et ajouter un service supplémentaire ; il a eu l'idée innovante de créer un service de click-and-collect qui puisse être géré depuis un site internet. 
 Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats. 
 Les fonctionnalités relatives aux commandes et aux paiements en ligne doivent être développées.
-Il veut accéder rapidement à son stock ert pouvoir le gérer facilement.
+Il veut pouvoir accéder rapidement à son stock et le gérer facilement.
 Enfin, le client souhaite avoir la visibilité sur l'historique de son stock, car il veut séparer celui du click and collect et celui du magasin.
 **`Luigi Joubert`**, CEO de cette entreprise nous a présenté sa vision de son site internet.
 **`Emeric, François, François, Laëtitia, Laura et Matvei`** sont chargés de sa mise en service. 
@@ -63,7 +63,7 @@ La BDD est mise en place.
 
 
 #### Charte graphique
-Le client souhaite mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc`** et le **`noir`**.
+Le client souhaite mettre en avant le **`vert`** comme couleur principale, ainsi que le **`blanc`** et le **`noir`**.
 Le client à choisi d'utiliser la police Monserrat.
 Voici les couleurs choisies par le client après proposition du prestataire.
 
