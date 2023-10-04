@@ -53,9 +53,9 @@ La BDD est mise en place.
 
 
 #### Contexte cibles
-<p align="center>
-<img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/ea22cf1b-cd6d-4552-98b1-084d2e40cc6b"> </p>
-<p align="center><img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/57cdd95b-5b2a-45be-ad56-d8b0005a7189"></p>
+
+<img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/ea22cf1b-cd6d-4552-98b1-084d2e40cc6b"> 
+<img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/57cdd95b-5b2a-45be-ad56-d8b0005a7189">
 
 
 #### Charte graphique
