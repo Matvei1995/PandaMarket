@@ -60,6 +60,7 @@ La BDD est mise en place.
 
 #### Charte graphique
 Le client souhaite mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc`** et le **`noir`**.
+Le client à choisi d'utiliser la police Monserrat.
 Voici les couleurs choisies par le client après proposition du prestataire.
 
 ![image](https://github.com/Matvei1995/mycacao/assets/92799729/d12b45a9-1c98-42cc-99d7-fd81d7439f36)
@@ -92,8 +93,4 @@ Le développement du projet va s'étaler sur 6 mois.
 
 ### Charge de travail
 
-### Délais et jalons
 
-### Livrables
-
-### Annexes
