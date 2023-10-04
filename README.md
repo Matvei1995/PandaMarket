@@ -1,4 +1,4 @@
-#                        Cahier des charges
+#                       <p align="center"> Cahier des charges</p>
 
 # Présentation de l'entreprise
 
