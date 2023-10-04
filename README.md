@@ -8,7 +8,6 @@
 
 
 
-
 Le client **`Panda Market`** est installé depuis 4 
 ans à TOULOUSE dans le secteur de l'alimentaire.
 Il vend de nombreux produits alimentaires dans un commerce de proximité où les consommateurs sont amenés à acheter sur place.
