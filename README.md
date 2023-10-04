@@ -42,6 +42,8 @@ Leur *logo* est un panda en noir et blanc.
 
 #### Charte graphique
 Il veulent mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc et le noir`**.
+Voici les couleurs choisies.
+
 ![image](https://github.com/Matvei1995/mycacao/assets/92799729/1b3b477a-aba1-4f28-87cc-dadac2fa135f)
 
 #### Objectif 
