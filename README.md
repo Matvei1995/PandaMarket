@@ -67,4 +67,7 @@ Le nom de domaine est www.panda-market.fr et l'hébergement utilise un serveur m
 Il présente l'avantage d'avoir un coût moins élevé.
 
 ## Spécifications techniques
-
+Pour les technologies nous avons utilisés du HTML et CSS ainsi que le framework react.JS pour le front-end.
+Pour le back-end, notamment pour la gestion de la base de donnée nous avons chois le langage PHP.
+Ces langages ont été choisi en fonction des compétences de notre équipe.
+Le développement du projet va s'étaler sur 6 mois 
