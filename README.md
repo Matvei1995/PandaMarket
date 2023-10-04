@@ -1,8 +1,9 @@
 #                        Cahier des charges
 
 # Présentation de l'entreprise
+![LogoMarket](https://github.com/Matvei1995/mycacao/assets/92799729/879768ae-222f-4498-8380-63a5fe296e64)
 
-Le client **`Panda Market`** est installé depuis 4 ![LogoMarket](https://github.com/Matvei1995/mycacao/assets/92799729/4362abad-f452-4e20-9dfd-cbf14a839683)
+Le client **`Panda Market`** est installé depuis 4 
 ans à TOULOUSE dans le secteur de l'alimentaire.
 Il vend de nombreux produits alimentaires dans un commerce de proximité où les consommateurs sont amenés à acheter sur place.
 **`Luigi Joubert`**, est le président-directeur-général (CEO) de cette entreprise depuis sa création.
