@@ -48,7 +48,9 @@ Enfin, le client souhaite avoir la visibilité sur l'historique de son stock, ca
 **`Emeric, François, François, Laëtitia, Laura et Matvei`** sont chargés de sa mise en service. 
 
 #### Existant
-Leur *logo* est un panda en noir et blanc.
+Leur *logo* est un panda en noir et blanc qui à été fourni.
+La BDD est mise en place.
+
 
 #### Contexte cibles
 <img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/ea22cf1b-cd6d-4552-98b1-084d2e40cc6b"> 
