@@ -2,7 +2,9 @@
 
 # Présentation de l'entreprise
 
-![LogoMarket](https://github.com/Matvei1995/mycacao/assets/92799729/13882964-1288-4fbf-a00e-07b89af646d0)
+![LogoMarket (1)](https://github.com/Matvei1995/mycacao/assets/92799729/b6031bda-63dd-430c-97a9-7834b3a8b832)
+
+
 
 Le client **`Panda Market`** est installé depuis 4 
 ans à TOULOUSE dans le secteur de l'alimentaire.
