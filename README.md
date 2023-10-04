@@ -38,6 +38,12 @@ Il vend de nombreux produits alimentaires dans un commerce de proximité où les
 Il souhaite créer un site avec un système de  **`Click and collect.`**
 Leur budget est de **`8 000 €`** et le projet doit être terminé d'ici 6 mois.
 
+#### Besoin 
+Panda Market souhaite évoluer et ajouter un service supplémentaire ; il a eu l'idée innovante de créer un service de click-and-collect qui puisse être géré depuis un site internet. 
+Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
+**`Luigi Joubert`**, CEO de cette entreprise nous a présenté sa vision de son site internet.
+**`Emeric, François, François, Laëtitia, Laura et Matvei`** sont chargés de sa mise en service. 
+
 #### Existant
 Leur *logo* est un panda en noir et blanc.
 
@@ -58,12 +64,7 @@ Organisation hiérarchique des informations du site
 
 ![image](https://github.com/Matvei1995/mycacao/assets/92799729/b9724bb9-d5d5-4353-bffb-30bca57526d1)
 
-
-#### Besoin 
-Panda Market souhaite évoluer et ajouter un service supplémentaire ; il a eu l'idée innovante de créer un service de click-and-collect qui puisse être géré depuis un site internet. 
-Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
-**`Luigi Joubert`**, CEO de cette entreprise nous a présenté sa vision de son site internet.
-**`Emeric, François, François, Laëtitia, Laura et Matvei`** sont chargés de sa mise en service.   
+  
 
 #### Le nom de domaine et l’hébergement
 Le nom de domaine est www.panda-market.fr et l'hébergement utilise un serveur mutualisé.
