@@ -56,5 +56,9 @@ Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
 **`Luigi Joubert`**, CEO de cette entreprise nous a présenté sa vision de son site internet.
 **`Emeric, François, François, Laëtitia, Laura et Matvei`** sont chargés de sa mise en service.   
 
+####Le nom de domaine et l’hébergement
+Le nom de domaine est www.panda-market.fr et l'hébergement utilise un serveur mutualisé.
+Il présente l'avantage d'avoir un coût moins élevé.
+
 ## Spécifications techniques
 
