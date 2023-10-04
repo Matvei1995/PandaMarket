@@ -35,7 +35,7 @@ Il vend de nombreux produits alimentaires dans un commerce de proximité où les
 
 #### Besoin
 Il souhaite créer un site avec un système de  **`Click and collect.`**
-Leur budget est de ****8 000 €****
+Leur budget est de **`8 000 €`**
 
 #### Existant
 Leur *logo* est un panda en noir et blanc.
