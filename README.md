@@ -97,7 +97,7 @@ Comme convenu avec le client au moyen du contrat passé le 3 octobre 2023 entre 
 
 ### Budget
 
-<img width="221" alt="image2" src="https://github.com/Matvei1995/mycacao/assets/92799729/4b9821e8-dce9-4331-823c-56ac8d2ee85a">
+<img width="400" height="400" alt="image2" src="https://github.com/Matvei1995/mycacao/assets/92799729/4b9821e8-dce9-4331-823c-56ac8d2ee85a">
 
 ### Charge de travail
 
