@@ -87,3 +87,12 @@ Pour le back-end, notamment pour la gestion de la base de donnée nous avons cho
 Ces langages ont été choisi en fonction des compétences de notre équipe.
 Le développement du projet va s'étaler sur 6 mois.
 
+### Propriétés intellectuelles
+
+### Charge de travail
+
+### Délais et jalons
+
+### Livrables
+
+### Annexes
