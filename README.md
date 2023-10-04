@@ -91,6 +91,14 @@ Le développement du projet va s'étaler sur 6 mois.
 
 ### Propriétés intellectuelles
 
+Comme convenu avec le client au moyen du contrat passé le 3 octobre 2023 entre ce dernier et le prestataire :
+ - les droits liés au nom de domaine, ainsi que les droits de reproduction, de vente et d'exploitation des produits, logos, services liés au site Web en gestation lui reviendront dès l'achèvement du projet par le prestataire.
+ - le prestataire se devra d'assurer la maintenance et les mises à jours du projet fini, si demandé par le client.
+
+### Budget
+
+<img width="221" alt="image2" src="https://github.com/Matvei1995/mycacao/assets/92799729/4b9821e8-dce9-4331-823c-56ac8d2ee85a">
+
 ### Charge de travail
 
 
