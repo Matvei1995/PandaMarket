@@ -103,12 +103,19 @@ Comme convenu avec le client au moyen du contrat passé le 3 octobre 2023 entre 
 ### Budget
 Le client a pour budget **`8 000 €`**
 Le prestataire a chiffré le devius ci-dessous :
+>
 > L'hébergement du site se fera sur O2Switch et coûtera **`50 €`** par an,
+> 
 > Le DNS utilisé pour coder panda-market.fr coûtera **`4,99 €`**, puis **`6,99 €`** par an,
+> 
 > La charte graphique partielle sera chiffrée à **`500 €`**,
+> 
 > La maintenance, que le client pourra choisir de faire effectuer par le prestataire ou non, coutêra **`500 €`** par an,
+> 
 > La formation du gérant coûtera **`1500 €`**,
+> 
 > enfin la facturation de l'ensemble des services concernant les développeurs le matériel et les locaux chiffera **`6000 €`**.
+
 Le coût total des services offerts par le prestataire montera à **`8061,98 €`**.
 
 ### Charge de travail
