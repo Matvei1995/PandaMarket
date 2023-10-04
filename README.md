@@ -43,9 +43,11 @@ Leur *logo* est un panda en noir et blanc.
 #### Charte graphique
 Il veulent mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc et le noir`**.
 Voici les couleurs choisies.
-#### l'arborescence
-Organisation hiérarchique des informations du site
 ![image](https://github.com/Matvei1995/mycacao/assets/92799729/1b3b477a-aba1-4f28-87cc-dadac2fa135f)
+#### L'arborescence
+Organisation hiérarchique des informations du site
+
+![image](https://github.com/Matvei1995/mycacao/assets/92799729/b9724bb9-d5d5-4353-bffb-30bca57526d1)
 
 
 #### Objectif 
