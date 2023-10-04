@@ -16,12 +16,12 @@ Il vend de nombreux produits alimentaires dans un commerce de proximité où les
 
 # Notre équipe
 
-**`Emeric, François G, François R, Laetitia, Laura et Matvei`** sont les prestataires de beUpdate, et sont amenés à répondre à la mission que leur a confié Luigi Joubert, détaillée ci-dessous.
+**`Emeric, François G, François R, Laëtitia, Laura et Matvei`** sont les prestataires de beUpdate, et sont amenés à répondre à la mission que leur a confié Luigi Joubert, détaillée ci-dessous.
 
 **`Emeric`** est  CEO.
 **`François G`** est chargé de relation client.
 **`François R`** est  Commercial.
-**`Laetitia`** est Team Lead Développeur.
+**`Laëtitia`** est Team Lead Développeur.
 **`Laura`** est chargé de l'Ux / UI Design.
 **`Matvei`** est développeur full-stack.
 
@@ -43,7 +43,7 @@ A définir pendant le prochain RDV
 Panda Market souhaite évoluer et ajouter un service supplémentaire ; il a eu l'idée innovante de créer un service de click-and-collect qui puisse être géré depuis un site internet. 
 Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
 **`Luigi Joubert`**, CEO de cette entreprise nous a présenté sa vision de son site internet.
-**`Emeric, François, François, Laetitia, Laura et Matvei`** sont chargés de sa mise en service.   
+**`Emeric, François, François, Laëtitia, Laura et Matvei`** sont chargés de sa mise en service.   
 
 ## Spécifications techniques
 
