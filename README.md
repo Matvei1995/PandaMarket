@@ -53,8 +53,10 @@ La BDD est mise en place.
 
 
 #### Contexte cibles
+<p align="center>
 <img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/ea22cf1b-cd6d-4552-98b1-084d2e40cc6b"> 
 <img align="center" src="https://github.com/Matvei1995/mycacao/assets/92799729/57cdd95b-5b2a-45be-ad56-d8b0005a7189">
+</p>
 
 #### Charte graphique
 Le client souhaite mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc`** et le **`noir`**.
@@ -63,9 +65,9 @@ Voici les couleurs choisies par le client après proposition du prestataire.
 ![image](https://github.com/Matvei1995/mycacao/assets/92799729/1b3b477a-aba1-4f28-87cc-dadac2fa135f)
 
 ainsi que l'autre proposition du prestataire, qui n'a pas été retenue :
-
+<p align="center>
 <img width="854px" height="120px" src="https://github.com/Matvei1995/mycacao/assets/92799729/6f857e05-f424-441e-80a3-26b0e02a4594">
-
+</p>
 
 
 #### L'arborescence
