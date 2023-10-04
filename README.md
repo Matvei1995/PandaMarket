@@ -2,7 +2,8 @@
 
 # Présentation de l'entreprise
 
-![LogoMarket (2)](https://github.com/Matvei1995/mycacao/assets/92799729/bf162195-62ae-4cdf-9694-5632e8702a72)
+
+![LogoMarket](https://github.com/Matvei1995/mycacao/assets/92799729/7d3b194b-7a24-444d-8c04-d8822a668932)
 
 
 
