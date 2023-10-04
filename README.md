@@ -41,9 +41,15 @@ Leur budget est de **`8 000 €`**
 Leur *logo* est un panda en noir et blanc.
 
 #### Charte graphique
-Il veulent mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc et le noir`**.
-Voici les couleurs choisies.
+Le client souhaite mettre en avant le **`vert`** pour la couleur principale, ainsi que le **`blanc`** et le **`noir`**.
+Voici les couleurs choisies par le client après proposition du prestataire.
+
 ![image](https://github.com/Matvei1995/mycacao/assets/92799729/1b3b477a-aba1-4f28-87cc-dadac2fa135f)
+
+ainsi que l'autre proposition du prestataire, qui n'a pas été retenue :
+
+![prop1](https://github.com/Matvei1995/mycacao/assets/92799729/12dc9fef-0c7f-49fb-9cb5-f465f41775a0)
+
 #### L'arborescence
 Organisation hiérarchique des informations du site
 
