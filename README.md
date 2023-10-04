@@ -47,8 +47,7 @@ Cette nouvelle fonctionnalité aura pour but de faciliter les moyens d'achats.
 Leur *logo* est un panda en noir et blanc.
 
 #### Contexte cibles
-![Charlotte](https://github.com/Matvei1995/mycacao/assets/92799729/ea22cf1b-cd6d-4552-98b1-084d2e40cc6b)
-![martin](https://github.com/Matvei1995/mycacao/assets/92799729/57cdd95b-5b2a-45be-ad56-d8b0005a7189)
+![Charlotte](https://github.com/Matvei1995/mycacao/assets/92799729/ea22cf1b-cd6d-4552-98b1-084d2e40cc6b) ![martin](https://github.com/Matvei1995/mycacao/assets/92799729/57cdd95b-5b2a-45be-ad56-d8b0005a7189)
 
 
 
